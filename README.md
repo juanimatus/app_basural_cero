@@ -21,7 +21,6 @@ En muchas zonas vulnerables, los basurales informales generan contaminación, en
 ---
 
 ## 🧰 Stack Tecnológico
-
 | Componente      | Tecnología                      |
 |-----------------|----------------------------------|
 | Frontend        | React + Leaflet.js               |
@@ -41,3 +40,23 @@ app_basural_cero/
 ├── iot/              # Scripts para sensores ESP32
 ├── comunidad/        # Manuales, afiches y estrategia de difusión
 └── docs/             # Wireframes, base de datos y propuestas institucionales
+
+📍 Casos de uso locales
+-Basural de Ruta 7 – Río Mendoza, Palmira, Mendoza: zona afectada por basurales crónicos
+-Posibilidad de trabajo conjunto con cooperativas y municipios
+-Interacción con campañas educativas y empleo verde
+
+
+🤝 Colaboración abierta
+Este proyecto está pensado para ser escalable y adaptable a cualquier ciudad con problemas similares. Busco colaboración de:
+
+-Organismos públicos
+-ONGs y cooperativas
+-Desarrolladores interesados en impacto ambiental
+-Educadores y promotores sociales
+
+✨ Autor
+Juan Ignacio Matus
+📍 Mendoza, Argentina
+📫 juanigmatus@gmail.com
+🌐 TangoScript en Instagram
