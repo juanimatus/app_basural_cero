@@ -1,6 +1,6 @@
-# 🌍 AIconcagua – Plataforma de Intervención Ambiental Inteligente
+# 🌍 AIconcagua: Mendoza sin Basura – Plataforma de Intervención Ambiental Inteligente
 
-**Basural Cero** es una iniciativa tecnológica-social pensada para combatir los basurales informales en zonas urbanas y rurales. Integra sensores IoT, mapas interactivos y participación vecinal para detectar, mapear y erradicar focos contaminantes con una mirada comunitaria y sostenible.
+AIconcagua: Mendoza sin Basura, es una iniciativa tecnológica-social pensada para combatir los basurales informales en zonas urbanas y rurales. Integra sensores IoT, mapas interactivos y participación vecinal para detectar, mapear y erradicar focos contaminantes con una mirada comunitaria y sostenible.
 
 ---
 
